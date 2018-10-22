@@ -1,0 +1,12 @@
+{
+    "name": "thangbeo/menu",
+    "description": "menu packages",
+    "authors": [
+        {
+            "name": "vinsofts-thangnq",
+            "email": "thangnq@vinsofts.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
